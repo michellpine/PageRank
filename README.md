@@ -1,2 +1,2 @@
 # PageRank
-Implementacion paralela del algoritmo de PageRank en python
+Implementacion con MPI del algoritmo de PageRank en python
